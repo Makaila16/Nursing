@@ -1,3 +1,4 @@
+/* body */
 body {
   background:#e0f1ff;
   color: #65d2dd;
@@ -20,6 +21,7 @@ p{
   background-color: #e8feff;
   padding:5px;
 }
+/* img*/
 img {
   border-style:groove;
   border-color:#7dd4dd;
@@ -42,7 +44,7 @@ a {
   border-color:#58cfc9;
   background-color:#67e9f1;
 }
-  
+  /* nav */
 a: link{
   color: #64aac4;
   text-decoration:underline;
